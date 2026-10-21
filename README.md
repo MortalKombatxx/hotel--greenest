@@ -35,7 +35,3 @@ Type a plant name (`Igge`, `Laura`, `Meatloaf`, `Olof`), or `exit` to quit.
 - `Meatloaf` → carnivorous formula + protein drink
 - Unknown name / empty input → friendly message
 - Same plant twice → already cared for
-
-## Assignment notes
-
-Individual course submission (G–VG). Public GitHub repo link goes on Portalen.
